@@ -19,7 +19,8 @@
 ## 👨‍💻 About Me
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-```javascript
+
+<pre>
 const ashmit = {
   name:       "Ashmit Shaw",
   alias:      "Shaw0p",
@@ -30,7 +31,7 @@ const ashmit = {
   superpower: "Making AI do the boring stuff",
   status:     "Always shipping 🚀"
 };
-```
+</pre>
 
 - 🔭 Building **CampusFlow** — AI × WhatsApp × Google Calendar
 - 🌱 Learning **LLMs, n8n Automation & Cloud Deployment**
@@ -38,8 +39,6 @@ const ashmit = {
 - ⚡ Fun fact: **I build faster WITH AI than without it!**
 
 <br clear="right"/>
-
----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
