@@ -12,60 +12,52 @@
 
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
 ## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<pre>
+```js
 const ashmit = {
   name:       "Ashmit Shaw",
   alias:      "Shaw0p",
   college:    "CMRIT Bengaluru 🎓",
   degree:     "B.Tech CSE",
-  passion:    ["AI Systems", "Full Stack", "Automation"],
+  focus:      ["Backend Engineering", "AI Systems", "Automation"],
   aiStack:    ["Groq", "Claude", "OpenAI", "n8n"],
   superpower: "Making AI do the boring stuff",
   status:     "Always shipping 🚀"
 };
-</pre>
+```
 
 - 🔭 Building **CampusFlow** — AI × WhatsApp × Google Calendar
-- 🌱 Learning **LLMs, n8n Automation & Cloud Deployment**
+- 🌱 Currently deep in backend fundamentals — auth, caching, rate limiting, containers
 - 💬 Ask me about **React, Node.js, Groq AI, n8n**
 - ⚡ Fun fact: **I build faster WITH AI than without it!**
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**
 <img src="https://skillicons.dev/icons?i=js,python,java,cpp,typescript&theme=dark&perline=5" />
 
-### Frontend
+**Frontend**
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark&perline=5" />
 
-### Backend
+**Backend**
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb&theme=dark&perline=5" />
 
-### Cloud & Database
+**Cloud & Database**
 <img src="https://skillicons.dev/icons?i=vercel,render,firebase,supabase,docker&theme=dark&perline=5" />
 
-### Tools
+**Tools**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=5" />
 
 </div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🤖 AI Stack
 
@@ -79,39 +71,25 @@ const ashmit = {
 
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🚀 My Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-<!-- ADD ALL YOUR REPOS HERE — replace repo names with your actual ones -->
 <a href="https://github.com/Shaw0p/camplusflow-cmrit">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaw0p&repo=camplusflow-cmrit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=f9a825&text_color=ffffff"/>
 </a>
-
-<!-- REPO 2 — replace "your-repo-2" with actual repo name -->
 <a href="https://github.com/Shaw0p/Urban-desi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaw0p&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=f9a825&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaw0p&repo=Urban-desi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=f9a825&text_color=ffffff"/>
 </a>
 
-<!-- REPO 3 -->
 <a href="https://github.com/Shaw0p/order-backend-deploy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaw0p&repo=your-repo-3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=f9a825&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaw0p&repo=order-backend-deploy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=f9a825&text_color=ffffff"/>
 </a>
-
-<!-- REPO 4 -->
 <a href="https://github.com/Shaw0p/order-management-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaw0p&repo=your-repo-4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=f9a825&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaw0p&repo=order-management-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=f9a825&text_color=ffffff"/>
 </a>
 
 </div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -120,33 +98,17 @@ const ashmit = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shaw0p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=f9a825&text_color=ffffff"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaw0p&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=f9a825&currStreakLabel=00ffff"/>
 
-<br/>
-
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaw0p&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff"/>
 
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📈 Contribution Graph
+## 📈 Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaw0p&bg_color=0d1117&color=00ffff&line=f9a825&point=ffffff&area=true&hide_border=true"/>
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🐍 Contribution Snake
-
-<div align="center">
+<br/>
 <img src="https://raw.githubusercontent.com/Shaw0p/Shaw0p/output/github-contribution-grid-snake-dark.svg"/>
 </div>
-
----
 
 ## 🔗 Connect With Me
 
@@ -157,9 +119,6 @@ const ashmit = {
 </a>
 <a href="https://leetcode.com/u/A-18/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
