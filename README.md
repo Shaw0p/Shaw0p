@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shaw0p&style=flat-square&color=718B7A&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/GitHub-Open%20to%20collaborate-718B7A?style=flat-square&logo=github&logoColor=white" alt="Open to collaborate"/>
 
 </div>
 
