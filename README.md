@@ -67,19 +67,6 @@ I enjoy building practical software and understanding the systems behind it.
 
 ---
 
-<div align="center">
-
-### Curious about systems. Serious about building.
-
-B.E. Information Science & Engineering · CMRIT, Bengaluru
-
-</div>
-
-I enjoy building software that solves practical problems and understanding what happens beneath the interface — how APIs communicate, how data moves, how workflows are orchestrated, and how systems handle failures.
-
-Currently focused on **Java, DSA, backend engineering, system design, applied AI, and infrastructure**.
-
----
 
 # 01 / Selected Work
 
