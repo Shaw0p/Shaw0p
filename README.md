@@ -1,213 +1,168 @@
+ <div align="center">
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:22d3ee,100:6366f1"/>
-
-<br/>
-
-# ASHMIT SHAW
-
-### SOFTWARE ENGINEERING · BACKEND SYSTEMS · APPLIED AI
-
-**I build software to solve real problems.**
-
-From backend APIs and automated workflows to network analysis and
-container tooling, I enjoy understanding how systems work
-and turning that understanding into working software.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:879B86,100:C5B7A1"/>
 
 <br/>
 
-[GitHub](https://github.com/Shaw0p) ·
-[LinkedIn](https://www.linkedin.com/in/ashmit-shaw-3016b0287/) ·
-[LeetCode](https://leetcode.com/u/A-18/)
+# Ashmit Shaw
+
+**Software Engineering · Backend Systems · Applied AI**
+
+*I like understanding how things work — so I build them.*
+
+B.E. Information Science & Engineering · CMRIT, Bengaluru
+
+[GitHub](https://github.com/Shaw0p) · [LinkedIn](https://www.linkedin.com/in/ashmit-shaw-3016b0287/) · [LeetCode](https://leetcode.com/u/A-18/)
 
 <br/>
 
-<img src="https://img.shields.io/badge/BASED_IN-Bengaluru%2C_India-0b1220?style=flat-square&labelColor=0b1220"/>
-<img src="https://img.shields.io/badge/EDUCATION-B.E._Information_Science-0b1220?style=flat-square&labelColor=0b1220"/>
-<img src="https://img.shields.io/badge/FOCUS-Backend_%26_Systems-0b1220?style=flat-square&labelColor=0b1220"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1200&color=879B86&center=true&vCenter=true&width=580&height=35&lines=Building+%E2%86%92+Breaking+%E2%86%92+Understanding;Backend+Engineering+%26+Practical+AI;Always+learning+something+new."/>
 
 </div>
 
 ---
 
-## 01 / Profile
+## A little about me
 
-I'm an Information Science and Engineering student at **CMR Institute
-of Technology, Bengaluru**, interested in backend engineering,
-system architecture, AI-powered applications, and infrastructure.
+Hey, I'm Ashmit.
 
-I like projects that go beyond a basic interface: applications that
-integrate services, process data, automate workflows, or make complex
-systems easier to understand.
+I'm an engineering student who enjoys building software beyond the UI — understanding APIs, how services communicate, how data moves, and what happens when something fails.
 
-Currently investing time in:
+Most of my learning happens through projects. I experiment with backend systems, automation, networking, and infrastructure, then improve things as I understand them better.
 
-- **Problem solving:** Data Structures & Algorithms in Java.
-- **Backend engineering:** APIs, authentication, databases, and reliability.
-- **System design:** Modularity, communication, latency, and failure handling.
-- **Infrastructure:** Docker, cloud fundamentals, and CI/CD.
-- **Applied AI:** LLM integrations and practical workflow automation.
+- Currently strengthening **Java, DSA, SQL, and system design**.
+- Building with **Node.js, React, REST APIs, and databases**.
+- Exploring **LLM integrations and workflow automation**.
+- Learning more about **Docker, cloud infrastructure, and networking**.
 
-My goal is to become an engineer who can explain not only what a
-system does, but also how it works, why it was designed that way,
-and where it can fail.
-
-## 02 / Selected Work
-
-A selection of engineering projects spanning automation, networking,
-and infrastructure.
-
-### 01. Network Packet Analyzer
-
-`NETWORKING` `PACKET ANALYSIS` `SYSTEMS`
-
-A project focused on examining network traffic and making packet-level
-information easier to inspect and understand.
-
-**Engineering focus**
-- Network protocol structure and packet metadata.
-- Traffic inspection and protocol analysis.
-- Understanding how data moves across network layers.
-- Exploring practical network diagnostics and analysis workflows.
-
-**Why it matters:** Network traffic provides a useful lens for learning
-protocols, troubleshooting, and the relationship between applications
-and underlying infrastructure.
-
-[→ Explore repositories](https://github.com/Shaw0p?tab=repositories)
-
-> Add the direct repository link, actual implementation language,
-> supported protocols, and a real packet-analysis screenshot here.
+I don't want to just make things work. I want to understand why they work.
 
 ---
 
-### 02. Campus Flow
+## Things I've been building
 
-`APPLIED AI` `BACKEND` `WORKFLOW AUTOMATION`
+A few projects that represent the kind of engineering I'm interested in.
 
-An AI-powered student automation platform that connects a form
-submission to a coordinated workflow involving personalized reminders,
-calendar scheduling, messaging, and email confirmations.
+### 01 — Network Packet Analyzer
 
-**Engineering focus**
-- Multi-step workflow orchestration using n8n.
-- Personalized reminder generation using Groq LLMs.
-- Integration with WhatsApp and Google Calendar APIs.
-- Backend services and communication between external systems.
+<sub>NETWORKING / PACKET ANALYSIS</sub>
 
-**Design consideration:** A useful automation system must account for
-API failures, retries, validation, and the possibility that one step
-succeeds while another fails.
+Understanding network traffic at the packet level: what gets transmitted, how protocols structure data, and how captured traffic can be inspected.
 
-**Stack:** React, Node.js, Express.js, n8n, Groq, WhatsApp API,
-Google Calendar API.
+**Areas of exploration**
+- Packet and protocol analysis.
+- TCP/IP and UDP traffic.
+- Network capture inspection and diagnostics.
+- Traffic classification and filtering.
 
-[→ View Campus Flow source](https://github.com/Shaw0p/camplusflow-cmrit)
+**Stack:** Add the actual languages and libraries used in the repository.
+
+[Explore my repositories →](https://github.com/Shaw0p?tab=repositories)
 
 ---
 
-### 03. Smart Attendance & Anti-Proxy Platform
+### 02 — Campus Flow
 
-`SECURITY` `GEOLOCATION` `REAL-TIME SYSTEMS`
+<sub>APPLIED AI / WORKFLOW AUTOMATION</sub>
 
-An attendance verification system designed to reduce proxy attendance
-through dynamic QR validation and location-aware checks.
+A student automation platform designed to turn one form submission into a coordinated workflow involving personalized reminders, calendar events, WhatsApp notifications, and email confirmations.
 
-**Engineering focus**
+**What makes it interesting**
+- n8n orchestrates multi-step workflows.
+- Groq LLMs generate personalized reminder messages.
+- External APIs connect messaging and calendar services.
+- Multiple steps must work together reliably.
+
+**Stack:** React · Node.js · Express.js · n8n · Groq · WhatsApp API · Google Calendar API
+
+[View Campus Flow →](https://github.com/Shaw0p/camplusflow-cmrit)
+
+---
+
+### 03 — Smart Attendance Platform
+
+<sub>SECURITY / GEOLOCATION</sub>
+
+A classroom attendance verification system designed to reduce proxy attendance through dynamic QR validation and location-aware checks.
+
+**Key concepts**
 - UUID-based rotating QR tokens.
 - Haversine-based geofencing.
-- Live attendance monitoring and token regeneration.
-- Server-side validation of attendance requests.
+- Live attendance monitoring.
+- Server-side validation and token expiry considerations.
 
-**Design consideration:** A QR token and GPS check are useful controls,
-but production-grade anti-proxy protection also requires careful
-token expiry, replay prevention, and server-side enforcement.
+**Stack:** Web technologies · REST APIs · QR verification · Geolocation
 
-[→ Explore repositories](https://github.com/Shaw0p?tab=repositories)
+[Explore my repositories →](https://github.com/Shaw0p?tab=repositories)
 
 ---
 
-### 04. DockOps
+### 04 — DockOps
 
-`DOCKER` `DEVELOPER TOOLS` `REAL-TIME INTERFACES`
+<sub>CONTAINERS / DEVELOPER TOOLS</sub>
 
-A container management interface concept focused on making Docker
-operations more accessible through a web-based workflow.
+A Docker management platform concept focused on making container operations easier to understand and manage through a web interface.
 
-**Engineering focus**
-- Container lifecycle operations.
-- Container details and status visibility.
-- Interactive terminal functionality using Docker APIs.
-- Real-time communication through WebSockets.
+**Key concepts**
+- Container lifecycle management.
+- Container status and detail views.
+- Interactive terminal integration using Docker APIs.
+- Real-time updates through WebSockets.
 
-**Design consideration:** Container operations need clear execution
-feedback, error handling, and appropriate access controls.
+**Stack:** React · Node.js · Docker · dockerode · WebSockets
 
-[→ Explore repositories](https://github.com/Shaw0p?tab=repositories)
+[Explore my repositories →](https://github.com/Shaw0p?tab=repositories)
 
 ---
 
-## 03 / Technical Toolkit
+## My everyday toolkit
 
 <div align="center">
 
-**LANGUAGES**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=light"/>
 
-**APPLICATION DEVELOPMENT**
+**Application development**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css&theme=light"/>
 
-**DATA & INFRASTRUCTURE**
+**Databases and infrastructure**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker,aws&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker,aws&theme=light"/>
 
-**ENGINEERING TOOLS**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,jenkins&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,jenkins&theme=light"/>
 
 </div>
 
-Additional experience and project tools include REST APIs, n8n,
-Groq LLM integrations, WebSockets, and QR/geolocation workflows.
-
 ---
 
-## 04 / Engineering Principles
+## What I'm learning right now
 
-| Principle | How I approach it |
+| Area | Current focus |
 |---|---|
-| Understand the problem | Define inputs, outputs, constraints, and failure cases. |
-| Keep systems modular | Separate responsibilities and minimize unnecessary coupling. |
-| Design for failure | Validate inputs and handle errors at system boundaries. |
-| Make work reproducible | Document setup, dependencies, and execution steps. |
-| Improve iteratively | Test, review, refactor, and learn from implementation trade-offs. |
+| Problem solving | DSA patterns and Java implementations |
+| Backend | Authentication, APIs, caching, and error handling |
+| Databases | SQL, joins, indexing, and query optimization |
+| System design | Modularity, latency, throughput, and failure handling |
+| Infrastructure | Docker, cloud fundamentals, and CI/CD |
+| Networking | Protocols, packet captures, and traffic analysis |
 
 ---
 
-## 05 / Current Learning
-
-- [ ] DSA patterns and problem solving in Java.
-- [ ] Java OOP and backend development.
-- [ ] SQL, indexing, and query optimization.
-- [ ] Low-Level Design and High-Level Design.
-- [ ] HTTP timeouts, retries, and failure handling.
-- [ ] Docker, cloud deployment, and CI/CD.
-- [ ] Network protocols and packet analysis.
-
----
-
-## 06 / GitHub Activity
+## A snapshot of my GitHub
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shaw0p&bg_color=080d19&color=67e8f9&line=6366f1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shaw0p&show_icons=true&hide_border=true&bg_color=F3F4EF&title_color=526B59&icon_color=879B86&text_color=424B42"/>
 
-<br/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaw0p&theme=default&hide_border=true&background=F3F4EF&ring=879B86&fire=C5A16B&currStreakLabel=526B59"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shaw0p&show_icons=true&hide_border=true&bg_color=080d19&title_color=67e8f9&icon_color=818cf8&text_color=e2e8f0"/>
+<br/><br/>
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shaw0p&bg_color=F3F4EF&color=526B59&line=879B86&point=C5A16B&area=true&hide_border=true&custom_title=My%20Contribution%20Activity"/>
 
 </div>
 
@@ -215,15 +170,14 @@ Groq LLM integrations, WebSockets, and QR/geolocation workflows.
 
 <div align="center">
 
-### Always learning. Always building.
+### Thanks for stopping by.
 
-*Good engineering is not just making things work.
-It's understanding why they work.*
+*Build something useful. Understand it deeply. Make it better.*
 
 <br/>
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/ashmit-shaw-3016b0287/)
+[Say hello on LinkedIn](https://www.linkedin.com/in/ashmit-shaw-3016b0287/)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:6366f1,100:22d3ee"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:879B86,100:C5B7A1"/>
 
 </div>
