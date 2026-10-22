@@ -19,7 +19,15 @@
 
 <br/><br/>
 
-<img width="100%" src="https://image.thum.io/get/width/1100/crop/650/https://packet-analyzer-dpi.vercel.app/" alt="Network Packet Analyzer preview"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Shaw0p&style=flat-square&color=718B7A&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
 
 </div>
 
