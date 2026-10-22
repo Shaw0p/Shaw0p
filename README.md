@@ -58,9 +58,6 @@ I enjoy building practical software and understanding the systems behind it.
 
 <br/>
 
-<a href="https://github.com/Shaw0p/Packet_analyzer">Network Analyzer</a> ·
-<a href="https://github.com/Shaw0p/camplusflow-cmrit">Campus Flow</a>
-
 </td>
 </tr>
 </table>
