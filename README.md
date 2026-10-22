@@ -1,190 +1,229 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:050816,50:101c3a,100:00bcd4&text=ASHMIT%20SHAW&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=BACKEND%20ENGINEERING%20%7C%20AI%20SYSTEMS%20%7C%20NETWORK%20SECURITY&descSize=15&descAlignY=60&descColor=67e8f9"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&width=750&height=45&lines=Building+Practical+Software+Systems;Exploring+AI+%26+Workflow+Automation;Learning+Backend+Architecture+%26+System+Design;Turning+Ideas+Into+Working+Projects"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:22d3ee,100:6366f1"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-0891b2?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-Integration%20%26%20Automation-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-334155?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=Shaw0p&style=flat-square&color=0891b2&label=PROFILE+VIEWS"/>
+# ASHMIT SHAW
+
+### SOFTWARE ENGINEERING · BACKEND SYSTEMS · APPLIED AI
+
+**I build software to solve real problems.**
+
+From backend APIs and automated workflows to network analysis and
+container tooling, I enjoy understanding how systems work
+and turning that understanding into working software.
+
+<br/>
+
+[GitHub](https://github.com/Shaw0p) ·
+[LinkedIn](https://www.linkedin.com/in/ashmit-shaw-3016b0287/) ·
+[LeetCode](https://leetcode.com/u/A-18/)
+
+<br/>
+
+<img src="https://img.shields.io/badge/BASED_IN-Bengaluru%2C_India-0b1220?style=flat-square&labelColor=0b1220"/>
+<img src="https://img.shields.io/badge/EDUCATION-B.E._Information_Science-0b1220?style=flat-square&labelColor=0b1220"/>
+<img src="https://img.shields.io/badge/FOCUS-Backend_%26_Systems-0b1220?style=flat-square&labelColor=0b1220"/>
 
 </div>
 
 ---
 
-## `$ whoami`
+## 01 / Profile
 
-I'm **Ashmit Shaw**, a B.E. Information Science and Engineering student at CMR Institute of Technology, Bengaluru.
+I'm an Information Science and Engineering student at **CMR Institute
+of Technology, Bengaluru**, interested in backend engineering,
+system architecture, AI-powered applications, and infrastructure.
 
-I enjoy building software that solves practical problems — from backend APIs and AI-powered workflows to network traffic analysis and container management.
+I like projects that go beyond a basic interface: applications that
+integrate services, process data, automate workflows, or make complex
+systems easier to understand.
 
-My approach is simple: understand the fundamentals, build something real, test it, and keep improving it.
+Currently investing time in:
 
-- 🔭 Building AI-powered applications and backend systems.
-- 🧠 Strengthening Data Structures & Algorithms in Java.
-- 🏗️ Learning Low-Level Design, High-Level Design, and distributed systems fundamentals.
-- 🤖 Exploring LLM integrations and workflow automation.
-- 🌐 Interested in networking, packet analysis, and application security.
-- ☁️ Practicing Docker, cloud fundamentals, and CI/CD.
+- **Problem solving:** Data Structures & Algorithms in Java.
+- **Backend engineering:** APIs, authentication, databases, and reliability.
+- **System design:** Modularity, communication, latency, and failure handling.
+- **Infrastructure:** Docker, cloud fundamentals, and CI/CD.
+- **Applied AI:** LLM integrations and practical workflow automation.
+
+My goal is to become an engineer who can explain not only what a
+system does, but also how it works, why it was designed that way,
+and where it can fail.
+
+## 02 / Selected Work
+
+A selection of engineering projects spanning automation, networking,
+and infrastructure.
+
+### 01. Network Packet Analyzer
+
+`NETWORKING` `PACKET ANALYSIS` `SYSTEMS`
+
+A project focused on examining network traffic and making packet-level
+information easier to inspect and understand.
+
+**Engineering focus**
+- Network protocol structure and packet metadata.
+- Traffic inspection and protocol analysis.
+- Understanding how data moves across network layers.
+- Exploring practical network diagnostics and analysis workflows.
+
+**Why it matters:** Network traffic provides a useful lens for learning
+protocols, troubleshooting, and the relationship between applications
+and underlying infrastructure.
+
+[→ Explore repositories](https://github.com/Shaw0p?tab=repositories)
+
+> Add the direct repository link, actual implementation language,
+> supported protocols, and a real packet-analysis screenshot here.
 
 ---
 
-## `$ tech --stack`
+### 02. Campus Flow
+
+`APPLIED AI` `BACKEND` `WORKFLOW AUTOMATION`
+
+An AI-powered student automation platform that connects a form
+submission to a coordinated workflow involving personalized reminders,
+calendar scheduling, messaging, and email confirmations.
+
+**Engineering focus**
+- Multi-step workflow orchestration using n8n.
+- Personalized reminder generation using Groq LLMs.
+- Integration with WhatsApp and Google Calendar APIs.
+- Backend services and communication between external systems.
+
+**Design consideration:** A useful automation system must account for
+API failures, retries, validation, and the possibility that one step
+succeeds while another fails.
+
+**Stack:** React, Node.js, Express.js, n8n, Groq, WhatsApp API,
+Google Calendar API.
+
+[→ View Campus Flow source](https://github.com/Shaw0p/camplusflow-cmrit)
+
+---
+
+### 03. Smart Attendance & Anti-Proxy Platform
+
+`SECURITY` `GEOLOCATION` `REAL-TIME SYSTEMS`
+
+An attendance verification system designed to reduce proxy attendance
+through dynamic QR validation and location-aware checks.
+
+**Engineering focus**
+- UUID-based rotating QR tokens.
+- Haversine-based geofencing.
+- Live attendance monitoring and token regeneration.
+- Server-side validation of attendance requests.
+
+**Design consideration:** A QR token and GPS check are useful controls,
+but production-grade anti-proxy protection also requires careful
+token expiry, replay prevention, and server-side enforcement.
+
+[→ Explore repositories](https://github.com/Shaw0p?tab=repositories)
+
+---
+
+### 04. DockOps
+
+`DOCKER` `DEVELOPER TOOLS` `REAL-TIME INTERFACES`
+
+A container management interface concept focused on making Docker
+operations more accessible through a web-based workflow.
+
+**Engineering focus**
+- Container lifecycle operations.
+- Container details and status visibility.
+- Interactive terminal functionality using Docker APIs.
+- Real-time communication through WebSockets.
+
+**Design consideration:** Container operations need clear execution
+feedback, error handling, and appropriate access controls.
+
+[→ Explore repositories](https://github.com/Shaw0p?tab=repositories)
+
+---
+
+## 03 / Technical Toolkit
 
 <div align="center">
 
-### Languages
+**LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark"/>
 
-### Web Development
+**APPLICATION DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css&theme=dark"/>
 
-### Databases & Infrastructure
+**DATA & INFRASTRUCTURE**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker,aws&theme=dark"/>
 
-### Engineering Tools
+**ENGINEERING TOOLS**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,jenkins&theme=dark"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-LLM%20Integration-F55036?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST-API%20Development-0891B2?style=for-the-badge"/>
-
-</div>
+Additional experience and project tools include REST APIs, n8n,
+Groq LLM integrations, WebSockets, and QR/geolocation workflows.
 
 ---
 
-## `$ ls ./projects`
+## 04 / Engineering Principles
 
-### 01. 🌐 Network Packet Analyzer
-
-**Deep Packet Inspection & Network Traffic Analysis**
-
-A network analysis project focused on inspecting captured traffic, understanding protocols, and extracting useful information from packets.
-
-- Parses packet headers and analyzes supported network protocols.
-- Explores TCP/IP traffic, UDP communication, DNS, and TLS metadata.
-- Investigates packet captures using PCAP-based workflows.
-- Explores traffic classification and configurable filtering rules.
-- Aims to make network activity easier to inspect and understand.
-
-**Technologies:** C++17, Java 17+, TCP/IP, PCAP, networking protocols, and web technologies — retain only the technologies actually used in the implementation.
-
-[Explore my repositories](https://github.com/Shaw0p?tab=repositories)
-
-### 02. 🤖 Campus Flow
-
-**AI-Powered Student Automation Platform**
-
-A workflow automation platform designed to connect student requests with personalized communications and calendar scheduling.
-
-- Uses an LLM to generate contextual reminder messages.
-- Orchestrates multi-step workflows with n8n.
-- Integrates WhatsApp messaging and Google Calendar.
-- Generates branded email confirmations.
-- Connects application services through APIs.
-
-**Technologies:** React, Node.js, Express.js, n8n, Groq, WhatsApp API, Google Calendar API.
-
-<div align="center">
-<a href="https://github.com/Shaw0p/camplusflow-cmrit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaw0p&repo=camplusflow-cmrit&theme=tokyonight&hide_border=true"/>
-</a>
-</div>
-
-### 03. 🎓 Smart Attendance & Anti-Proxy Platform
-
-**Location-Aware Attendance Verification**
-
-A system designed to strengthen attendance validation using dynamic QR verification and geofencing.
-
-- UUID-based QR tokens with rotation.
-- GPS validation using the Haversine formula.
-- Live attendance monitoring.
-- Token regeneration to reduce reuse of static QR screenshots.
-- Server-side validation for attendance requests.
-
-**Technologies:** JavaScript, REST APIs, QR codes, GPS, geofencing.
-
-### 04. 🐳 DockOps
-
-**Docker Container Lifecycle Management**
-
-A web-based interface for exploring and managing Docker container operations.
-
-- Container lifecycle management.
-- Container information and status views.
-- Interactive terminal functionality through Docker APIs.
-- Real-time updates using WebSockets.
-
-**Technologies:** React, Node.js, Docker, dockerode, WebSockets.
+| Principle | How I approach it |
+|---|---|
+| Understand the problem | Define inputs, outputs, constraints, and failure cases. |
+| Keep systems modular | Separate responsibilities and minimize unnecessary coupling. |
+| Design for failure | Validate inputs and handle errors at system boundaries. |
+| Make work reproducible | Document setup, dependencies, and execution steps. |
+| Improve iteratively | Test, review, refactor, and learn from implementation trade-offs. |
 
 ---
 
-## `$ cat ./learning-roadmap`
+## 05 / Current Learning
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-Data%20Structures%20%26%20Algorithms-0891b2?style=flat-square"/>
-<img src="https://img.shields.io/badge/02-Java%20%26%20OOP-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/03-SQL%20%26%20Databases-059669?style=flat-square"/>
-<img src="https://img.shields.io/badge/04-System%20Design-d97706?style=flat-square"/>
-<img src="https://img.shields.io/badge/05-Docker%20%26%20CI%2FCD-2563eb?style=flat-square"/>
-<img src="https://img.shields.io/badge/06-Networking%20%26%20Security-dc2626?style=flat-square"/>
-
-</div>
+- [ ] DSA patterns and problem solving in Java.
+- [ ] Java OOP and backend development.
+- [ ] SQL, indexing, and query optimization.
+- [ ] Low-Level Design and High-Level Design.
+- [ ] HTTP timeouts, retries, and failure handling.
+- [ ] Docker, cloud deployment, and CI/CD.
+- [ ] Network protocols and packet analysis.
 
 ---
 
-## `$ git stats`
+## 06 / GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shaw0p&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=8b5cf6&text_color=e2e8f0"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaw0p&theme=tokyonight&hide_border=true&background=0d1117&ring=67e8f9&fire=8b5cf6&currStreakLabel=67e8f9"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shaw0p&bg_color=080d19&color=67e8f9&line=6366f1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaw0p&layout=compact&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=e2e8f0"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shaw0p&bg_color=0d1117&color=67e8f9&line=8b5cf6&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shaw0p&show_icons=true&hide_border=true&bg_color=080d19&title_color=67e8f9&icon_color=818cf8&text_color=e2e8f0"/>
 
 </div>
 
 ---
 
-## `$ connect --with-me`
-
 <div align="center">
 
-<a href="https://github.com/Shaw0p">
-<img src="https://img.shields.io/badge/GitHub-Shaw0p-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/ashmit-shaw-3016b0287/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://leetcode.com/u/A-18/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+### Always learning. Always building.
 
-<br/><br/>
+*Good engineering is not just making things work.
+It's understanding why they work.*
 
-**Build. Understand. Improve. Repeat.**
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00bcd4,100:050816&section=footer"/>
+[Let's connect on LinkedIn](https://www.linkedin.com/in/ashmit-shaw-3016b0287/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:6366f1,100:22d3ee"/>
 
 </div>
