@@ -18,11 +18,11 @@
 </a>
 
 <br/><br/>
-
+<img src="https://komarev.com/ghpvc/?username=Shaw0p&style=flat-square&color=718B7A&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shaw0p&style=flat-square&color=718B7A&label=PROFILE+VIEWS"/>
+
 
 </div>
 
