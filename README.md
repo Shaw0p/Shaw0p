@@ -1,31 +1,29 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:171923,45:263747,100:718B7A&text=ASHMIT%20SHAW&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=BACKEND%20ENGINEERING%20%7C%20AI%20SYSTEMS%20%7C%20NETWORKING&descSize=15&descAlignY=60&descColor=d5e4d5"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=850&color=A8BDA8&center=true&vCenter=true&width=750&height=45&lines=Building+Practical+Software+Systems;Exploring+AI+%26+Workflow+Automation;Learning+Backend+Architecture;Turning+Ideas+Into+Working+Projects"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:718B7A,100:C5B7A1"/>
 
 <br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:171A21,50:28352F,100:465D50&text=Ashmit%20Shaw&fontSize=68&fontColor=F4F1E9&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%2F%20BACKEND%20%2F%20APPLIED%20AI&descSize=14&descAlignY=62&descColor=D1DCCF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=A8BDA8&center=true&vCenter=true&width=650&height=38&lines=Building+things+to+understand+how+they+work.;From+backend+systems+to+network+analysis.;Learning+by+building%2C+testing%2C+improving."/>
+
+<br/><br/>
 
 <a href="https://github.com/Shaw0p">
-<img src="https://img.shields.io/badge/GitHub-Shaw0p-34483B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-34483B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ashmit-shaw-3016b0287/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-526B75?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-526B75?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/A-18/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-80694C?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Problem%20solving-80694C?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-
-
-
-</div>
-
----
-
+<img src="https://komarev.com/ghpvc/?username=Shaw0p&style=flat-square&color=718B7A&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -33,75 +31,19 @@
 
 <div align="center">
 
-### A developer who learns by building.
+### Curious about systems. Serious about building.
 
-**Backend Systems · Applied AI · Network Analysis · DevOps**
-
-</div>
-
-I'm **Ashmit Shaw**, a B.E. Information Science and Engineering student at CMR Institute of Technology, Bengaluru.
-
-I enjoy building practical software, understanding how systems work behind the scenes, and improving my engineering fundamentals through projects.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-Build%20Systems-34483B?style=flat-square"/>
-<img src="https://img.shields.io/badge/02-Solve%20Problems-526B75?style=flat-square"/>
-<img src="https://img.shields.io/badge/03-Automate%20Workflows-80694C?style=flat-square"/>
-<img src="https://img.shields.io/badge/04-Learn%20Continuously-65718A?style=flat-square"/>
+B.E. Information Science & Engineering · CMRIT, Bengaluru
 
 </div>
 
-## 🧭 What I'm Working Towards
+I enjoy building software that solves practical problems and understanding what happens beneath the interface — how APIs communicate, how data moves, how workflows are orchestrated, and how systems handle failures.
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="48"/>
-<br/><br/>
-<b>Backend</b>
-<br/>
-<sub>APIs, Java, SQL</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48"/>
-<br/><br/>
-<b>Applied AI</b>
-<br/>
-<sub>LLMs, automation</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/fluency/96/network.png" width="48"/>
-<br/><br/>
-<b>Networking</b>
-<br/>
-<sub>Protocols, packets</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/fluency/96/docker.png" width="48"/>
-<br/><br/>
-<b>Infrastructure</b>
-<br/>
-<sub>Containers, CI/CD</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
-
-</div>
+Currently focused on **Java, DSA, backend engineering, system design, applied AI, and infrastructure**.
 
 ---
 
-# 🚀 Selected Projects
+## 01 / Selected Work
 
 <div align="center">
 
@@ -121,173 +63,191 @@ I enjoy building practical software, understanding how systems work behind the s
 
 </div>
 
-<details>
-<summary><b>01 / Network Packet Analyzer</b> — Deep Packet Inspection</summary>
-
 <br/>
+
+### 01. Network Packet Analyzer
+
+<sub>NETWORKING · DEEP PACKET INSPECTION</sub>
+
+A packet-analysis project focused on inspecting captured traffic, understanding network protocols, identifying applications, and applying traffic policies.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-Packet%20Parsing-34483B?style=flat-square"/>
+<img src="https://img.shields.io/badge/02-Flow%20Tracking-526B75?style=flat-square"/>
+<img src="https://img.shields.io/badge/03-Traffic%20Filtering-80694C?style=flat-square"/>
+
+</div>
+
+| Technical detail | Implementation |
+|---|---|
+| Protocols | Ethernet, IPv4, TCP, UDP |
+| Metadata | TLS SNI and HTTP Host |
+| Connection tracking | Five-tuple flows |
+| Sample capture | 77 packets processed in the documented test |
+| Sample outcome | 76 forwarded, 1 dropped |
 
 <div align="center">
 
 <a href="https://github.com/Shaw0p/Packet_analyzer">
-<img width="100%" src="https://image.thum.io/get/width/1100/crop/650/https://packet-analyzer-dpi.vercel.app/" alt="Network Packet Analyzer preview"/>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-34483B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
-
-<a href="https://github.com/Shaw0p/Packet_analyzer">SOURCE CODE ↗</a>
-&nbsp; · &nbsp;
-<a href="https://packet-analyzer-dpi.vercel.app/">LIVE DEMO ↗</a>
-
 </div>
-
-### At a glance
-
-| Component | Capability |
-|---|---|
-| Packet inspection | Ethernet, IPv4, TCP and UDP |
-| Application identification | TLS SNI and HTTP Host metadata |
-| Flow tracking | Five-tuple connection tracking |
-| Filtering | Configurable traffic policies |
-| Sample capture | 77 packets: 76 forwarded, 1 dropped |
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PACKET%20INSPECTION-718B7A?style=flat-square"/>
-<img src="https://img.shields.io/badge/TRAFFIC%20ANALYSIS-526B75?style=flat-square"/>
-<img src="https://img.shields.io/badge/NETWORK%20SYSTEMS-80694C?style=flat-square"/>
-
-</div>
-
-</details>
 
 <details>
-<summary><b>02 / Campus Flow</b> — AI-Powered Student Automation</summary>
+<summary><b>Explore the processing flow</b></summary>
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/Shaw0p/camplusflow-cmrit">
-<img width="100%" src="https://image.thum.io/get/width/1100/crop/650/https://camplusflow-cmrit.vercel.app/" alt="Campus Flow application preview"/>
-</a>
+`PCAP / TRAFFIC INPUT`
 
-<br/>
+↓
 
-<a href="https://github.com/Shaw0p/camplusflow-cmrit">SOURCE CODE ↗</a>
-&nbsp; · &nbsp;
-<a href="https://camplusflow-cmrit.vercel.app/">LIVE DEMO ↗</a>
+`PACKET PARSING`
 
-</div>
+↓
 
-### The workflow
+`PROTOCOL & METADATA ANALYSIS`
 
-<div align="center">
+↓
 
-`FORM` → `n8n` → `GROQ LLM` → `CALENDAR + WHATSAPP + EMAIL`
+`FLOW CLASSIFICATION`
 
-</div>
+↓
 
-| Component | Purpose |
-|---|---|
-| Groq LLM | Personalized reminder generation |
-| n8n | Multi-step workflow orchestration |
-| Google Calendar API | Scheduling |
-| WhatsApp API | Notifications |
-| Email integration | Confirmation messages |
+`POLICY EVALUATION`
 
-**Stack:** React · Node.js · Express.js · n8n · Groq
+↓
 
-</details>
-
-<details>
-<summary><b>03 / Smart Attendance</b> — Anti-Proxy Verification</summary>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Shaw0p/SMART-ATTENDANCE-SYSTEM">
-<img width="100%" src="https://image.thum.io/get/width/1100/crop/650/https://smart-attendance-system-orpin-five.vercel.app/" alt="Smart Attendance application preview"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Shaw0p/SMART-ATTENDANCE-SYSTEM">SOURCE CODE ↗</a>
-&nbsp; · &nbsp;
-<a href="https://smart-attendance-system-orpin-five.vercel.app/">LIVE DEMO ↗</a>
+`FORWARD / DROP`
 
 </div>
-
-### Verification pipeline
-
-<div align="center">
-
-`ROTATING QR` → `TOKEN VALIDATION` → `GPS GEOFENCE` → `ATTENDANCE`
-
-</div>
-
-| Component | Implementation |
-|---|---|
-| QR rotation | 30-second interval |
-| Token generation | UUID-based tokens |
-| Location verification | Haversine formula |
-| Live monitoring | Attendance check-in visibility |
-| Security goal | Reduce QR reuse and proxy attendance |
-
-</details>
-
-<details>
-<summary><b>04 / DockOps</b> — Docker Container Management</summary>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Shaw0p/Dock0ps">
-<img width="100%" src="https://image.thum.io/get/width/1100/crop/650/https://dock0ps.vercel.app/" alt="DockOps dashboard preview"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Shaw0p/Dock0ps">SOURCE CODE ↗</a>
-&nbsp; · &nbsp;
-<a href="https://dock0ps.vercel.app/">LIVE DEMO ↗</a>
-
-</div>
-
-### Engineering highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-CONTAINER%20LIFECYCLE-34483B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-INTERACTIVE%20TERMINAL-526B75?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-REAL--TIME%20UPDATES-80694C?style=for-the-badge"/>
-
-</div>
-
-**Stack:** React · Node.js · Docker · dockerode · WebSockets
 
 </details>
 
 ---
 
-## 🧰 Technologies
+### 02. Campus Flow
+
+<sub>APPLIED AI · WORKFLOW AUTOMATION</sub>
+
+An AI-powered student automation platform connecting a form submission to personalized reminders, calendar scheduling, WhatsApp notifications, and email confirmations.
 
 <div align="center">
 
-### Languages
+<img src="https://img.shields.io/badge/01-Groq%20LLM-526B75?style=flat-square"/>
+<img src="https://img.shields.io/badge/02-n8n%20Orchestration-80694C?style=flat-square"/>
+<img src="https://img.shields.io/badge/03-Multi--service%20Integration-34483B?style=flat-square"/>
+
+</div>
+
+<div align="center">
+
+| Input | Automation | Outputs |
+|:---:|:---:|:---:|
+| Student form | n8n + Groq | Calendar |
+| Request details | Workflow logic | WhatsApp |
+| Preferences | API integrations | Email |
+
+</div>
+
+**Stack:** React · Node.js · Express.js · n8n · Groq · WhatsApp API · Google Calendar API
+
+<div align="center">
+
+<a href="https://github.com/Shaw0p/camplusflow-cmrit">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-34483B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 03. Smart Attendance System
+
+<sub>SECURITY · QR VERIFICATION · GEOFENCING</sub>
+
+A location-aware attendance platform designed to reduce proxy attendance through dynamic QR tokens and geographical validation.
+
+<div align="center">
+
+<box></box>
+<img src="https://img.shields.io/badge/30%20SECONDS-QR%20ROTATION-34483B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UUID-TOKEN%20VALIDATION-526B75?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GPS-HAVERSINE%20GEOFENCING-80694C?style=for-the-badge"/>
+
+</div>
+
+<div align="center">
+
+`ROTATING QR` → `TOKEN CHECK` → `LOCATION CHECK` → `ATTENDANCE RECORD`
+
+</div>
+
+**Engineering focus:** token validation, location checks, live monitoring, and prevention of QR reuse.
+
+<div align="center">
+
+<a href="https://github.com/Shaw0p/SMART-ATTENDANCE-SYSTEM">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-34483B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 04. DockOps
+
+<sub>DEVOPS · CONTAINER MANAGEMENT</sub>
+
+A Docker management interface concept designed to simplify container operations through a web-based dashboard.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-Container%20Lifecycle-34483B?style=flat-square"/>
+<img src="https://img.shields.io/badge/02-Interactive%20Terminal-526B75?style=flat-square"/>
+<img src="https://img.shields.io/badge/03-WebSocket%20Updates-80694C?style=flat-square"/>
+
+</div>
+
+<div align="center">
+
+`WEB DASHBOARD` → `NODE.JS API` → `DOCKER ENGINE`
+
+</div>
+
+**Stack:** React · Node.js · Docker · dockerode · WebSockets
+
+<div align="center">
+
+<a href="https://github.com/Shaw0p/Dock0ps">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-34483B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 02 / Engineering Toolkit
+
+<div align="center">
+
+**LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark&perline=5"/>
 
-### Frontend & Backend
+**WEB & BACKEND**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css&theme=dark&perline=5"/>
 
-### Data & Infrastructure
+**DATA & INFRASTRUCTURE**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker,aws&theme=dark&perline=6"/>
 
-### Developer Tools
+**DEVELOPER TOOLS**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,jenkins&theme=dark&perline=6"/>
 
@@ -295,11 +255,11 @@ I enjoy building practical software, understanding how systems work behind the s
 
 ---
 
-## 📈 GitHub Activity
+## 03 / GitHub Activity
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A8BDA8&center=true&vCenter=true&width=600&height=35&lines=Every+commit+is+a+step+forward.;Building%2C+testing%2C+and+learning."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=A8BDA8&center=true&vCenter=true&width=580&height=35&lines=One+commit+at+a+time.;Build.+Test.+Learn.+Repeat."/>
 
 <br/>
 
@@ -311,25 +271,11 @@ I enjoy building practical software, understanding how systems work behind the s
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaw0p&theme=tokyonight&hide_border=true&background=171A21&ring=879B86&fire=C5A16B&currStreakLabel=A8BDA8"/>
 
-<br/><br/>
-
-<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaw0p&layout=compact&hide_border=true&bg_color=171A21&title_color=A8BDA8&text_color=E5E7EB"/>
-
 </div>
 
 ---
 
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shaw0p/Shaw0p/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-## 🎯 Currently Learning
+## 04 / Currently Learning
 
 <div align="center">
 
@@ -344,9 +290,9 @@ I enjoy building practical software, understanding how systems work behind the s
 
 <div align="center">
 
-### Build. Understand. Improve. Repeat.
+### Thanks for visiting.
 
-*Learning through projects, one problem at a time.*
+*Build with curiosity. Understand the details. Improve every iteration.*
 
 <br/>
 
@@ -354,6 +300,6 @@ I enjoy building practical software, understanding how systems work behind the s
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:718B7A,100:263747&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:718B7A,100:C5B7A1"/>
 
 </div>
